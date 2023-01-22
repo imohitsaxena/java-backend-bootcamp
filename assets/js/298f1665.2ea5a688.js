@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjavabrains_bootcamp=self.webpackChunkjavabrains_bootcamp||[]).push([[48],{5745:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
